@@ -42,5 +42,8 @@ The connection is established with an external data source, the connection is ad
 - Import libraries as os, numpy, pandas, datetime, matplotlib.piplot, seaborn.
 - Use methods as .read_csv(), .info(), .to_datatime(), .plot(), .figure(), .show(), .xlabel(), .ylabel(), .title().
 
-  ### 6. Conclusions of analysis
+### 6. Conclusions of analysis
+It is a project that gave me information from external data source, this information has given to the local environment using Jupite. I have been able to modify daya and adopt it, since it has answered <br/>
+questions realized, I have seen the variation in the spanish community throughout time. I identify some challenges because data was not in perfect format and manage the diversity of datasets, I include <br/>
+poblation of evident and not evident data, about genre, age, kind of costumers. I developt with three kinds of data, total poblation, male and female poblation. I checked 
   
