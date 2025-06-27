@@ -43,7 +43,13 @@ The connection is established with an external data source, the connection is ad
 - Use methods as .read_csv(), .info(), .to_datatime(), .plot(), .figure(), .show(), .xlabel(), .ylabel(), .title().
 
 ### 6. Conclusions of analysis
-It is a project that gave me information from external data source, this information has given to the local environment using Jupite. I have been able to modify daya and adopt it, since it has answered <br/>
-questions realized, I have seen the variation in the spanish community throughout time. I identify some challenges because data was not in perfect format and manage the diversity of datasets, I include <br/>
-poblation of evident and not evident data, about genre, age, kind of costumers. I developt with three kinds of data, total poblation, male and female poblation. I checked 
+This project involved extracting information from an external data source and integrating it into a local environment using Jupyter. I was able to clean, modify, and adapt the data to answer key questions. I observed variation within the Spanish community over time.
+During the process, I encountered some challenges: the data was not in a clean format, and I had to manage the diversity of the datasets. I included both evident and less evident demographic information, such as gender, age, and customer type.
+I worked with three main data groups: total population, male population, and female population. I first analyzed overall population trends and then focused on gender-specific variations.
+Although I validated the data using semiannual values, I faced some interpretation challenges—typical in analytical work. Eventually, I decided to restructure the data using decades instead of semiannual periods to make the insights clearer.
+After data cleaning, manipulation, analysis, and interpretation, I began to think about long-term improvements. If this data could be uploaded to a collaborative database, it would allow other users to work with clean, structured data. It's important to create backup files so users can return to specific stages of analysis. In the end, I transformed the dataset into a lightweight CSV archive for easier sharing and use.
+Finally, after checking the graph, I observed that from 1970 to 1980, there was a noticeable upward slope, indicating a faster growth rate. It was a period of strong growth, with the population rising from around 34 million to approximately 38 million—this was also confirmed numerically.
+Then, I noticed that the growth rate began to slow down. From 1980 to 1990, when analyzing by decade, the vertical change was minimal, showing almost no variation. This trend continued in the following decade, from 1990 to 2000. I also confirmed these patterns using the numerical data series.
+Later, I identified subtle nuances in the data, which helped me better understand the overall trend. It's important that graphs are always supported by numerical values, and vice versa—numbers should also be visualized through graphs.
+After the year 2000, I noticed a significant increase in growth. However, before 2010, the growth rate began to slow again, with the slope becoming less steep. Then, around 2020, the growth rate increased once more, and the slope became steeper again.
   
