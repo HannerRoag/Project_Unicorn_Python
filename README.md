@@ -56,4 +56,4 @@ Later, I identified subtle nuances in the data, which helped me better understan
 After the year 2000, I noticed a significant increase in growth. However, before 2010, the growth rate began to slow again, with the slope becoming less steep. Then, around 2020, the growth rate increased once more, and the slope became steeper again.
 
 ### 7. Acknowledgements
-Almudena Alcázar de Velasco, Jesús Adraz, Cristian Lavia, Yohana Lopez, Caterina Abanoni and Unicorn Academy.
+Almudena Alcázar de Velasco, Jesús Adraz, Cristian Lavia, Yohana Lopez, Caterina Abanoni and Unicorn Academy team.
