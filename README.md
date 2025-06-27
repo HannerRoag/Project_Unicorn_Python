@@ -1,5 +1,5 @@
 
-<h1> Unicorn Project - Analizyng INE statistics <h1>
+<h1> Unicorn Academy Project - Analizyng INE statistics <h1>
  <img src="https://raw.githubusercontent.com/HannerRoag/Project_Unicorn_Python/refs/heads/main/svg/made-with-jupyter---sql.svg" alt="Made with Jupyter">
  <img src="https://raw.githubusercontent.com/HannerRoag/Project_Unicorn_Python/refs/heads/main/svg/guided-project-unicorn-academy.svg" alt="Guided Project"> <br/>
 <br/>
