@@ -1,6 +1,6 @@
 
 <h1> Unicorn Project - Analizyng INE statistics <h1>
-![forthebadge](/res/made-with-jupyter--sql.svg)
+ <img src="https://raw.githubusercontent.com/HannerRoag/Project_Unicorn_Python/refs/heads/main/svg/made-with-jupyter---sql.svg" alt="Made with Jupyter">
 ### 1. Data source
  INE - National Institute of statistics of Spain
  
