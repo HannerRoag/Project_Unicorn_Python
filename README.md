@@ -10,7 +10,7 @@
 #### 2.1 Main objective
 - Using external information, development knowledge using python.
 #### 2.2. Specific objetives 
-- Development libreries and methods on Python.
+- Development libraries and methods on Python.
 - Analyze information provided for INE.
 - Visualyze relevant information.
 
