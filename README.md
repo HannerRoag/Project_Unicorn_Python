@@ -54,4 +54,6 @@ Finally, after checking the graph, I observed that from 1970 to 1980, there was 
 Then, I noticed that the growth rate began to slow down. From 1980 to 1990, when analyzing by decade, the vertical change was minimal, showing almost no variation. This trend continued in the following decade, from 1990 to 2000. I also confirmed these patterns using the numerical data series.<br/>
 Later, I identified subtle nuances in the data, which helped me better understand the overall trend. It's important that graphs are always supported by numerical values, and vice versa—numbers should also be visualized through graphs.<br/>
 After the year 2000, I noticed a significant increase in growth. However, before 2010, the growth rate began to slow again, with the slope becoming less steep. Then, around 2020, the growth rate increased once more, and the slope became steeper again.
-  
+
+### 7. Acknowledgements
+Almudena Alcázar de Velasco, Jesús Adraz, Cristian Lavia, Yohana Lopez, Caterina Abanoni and Unicorn Academy.
